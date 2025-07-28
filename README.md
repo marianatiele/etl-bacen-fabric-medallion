@@ -10,7 +10,7 @@ Este projeto realiza um pipeline de dados completo usando a API do Banco Central
 - **API do Banco Central (Bacen)**
 - **Spark (Notebooks no Fabric)**
 - **Lakehouse com arquitetura Medallion**
-- **Power BI (opcional para visualização)**
+- **Power BI**
 
 ---
 
@@ -45,5 +45,5 @@ A arquitetura Medallion é dividida em três camadas principais:
 
 ---
 
-=
+
 
