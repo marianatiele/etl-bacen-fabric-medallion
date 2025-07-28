@@ -23,7 +23,8 @@ A arquitetura Medallion é dividida em três camadas principais:
 - **Gold**: Dados prontos para análise e consumo em dashboards
 
 > Veja o fluxo completo na imagem abaixo:  
-> 📷 `docs/etl-fluxo.png` (adicione sua imagem aqui)
+<img width="759" height="328" alt="image" src="https://github.com/user-attachments/assets/33a6cf00-91c2-4ee9-a990-f582fcd9c105" />
+
 
 ---
 
