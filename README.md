@@ -4,7 +4,7 @@ Este projeto realiza um pipeline de dados completo usando a API do Banco Central
 
 ---
 
-## 🔧 Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Microsoft Fabric**
 - **API do Banco Central (Bacen)**
@@ -14,7 +14,7 @@ Este projeto realiza um pipeline de dados completo usando a API do Banco Central
 
 ---
 
-## 📊 Arquitetura do Projeto
+##  Arquitetura do Projeto
 
 A arquitetura Medallion é dividida em três camadas principais:
 
@@ -28,15 +28,20 @@ A arquitetura Medallion é dividida em três camadas principais:
 
 ---
 
-## 📦 Pipeline de ETL
+## Pipeline de ETL
 
 1. **Extração**: Coleta de dados da API do Bacen via chamadas REST
 2. **Transformação**: Tratamento e organização com Spark no Fabric
 3. **Carga**: Salvamento dos dados tratados nas camadas Silver e Gold do Lakehouse
 
 ---
+## Painel
 
-## ▶️ Como Executar
+<img width="721" height="409" alt="image" src="https://github.com/user-attachments/assets/7eec0136-e309-4e02-92aa-e900bd1734d0" />
+
+
+---
+## Como Executar
 
 1. Clone este repositório
 2. Configure o notebook no Microsoft Fabric
